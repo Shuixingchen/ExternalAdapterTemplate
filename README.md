@@ -1,5 +1,6 @@
 # Chainlink NodeJS External Adapter Template
-通过修改index.js实现自定义的External Adapter
+制作和使用external-adapters
+https://blog.chain.link/build-and-use-external-adapters/
 
 ## Creating your own adapter from this template
 
